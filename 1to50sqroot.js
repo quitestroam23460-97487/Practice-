@@ -1,4 +1,4 @@
 let n=50;
-for (let i=1; i<=n; i++) {
-    console.log("square root of", i, "is", Math.sqrt(i));
+for (let i=1; i<=50; i++) {
+    console.log( i, "=", Math.sqrt(i));
 }
